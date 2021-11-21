@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(167, 91, 103);
+    max-width: 500px;
+    margin: auto;
+}
+select {
+    margin-left: 160px;
+}
+button {
+    margin-left: 160px;
+}
